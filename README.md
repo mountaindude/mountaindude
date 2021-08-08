@@ -2,7 +2,7 @@
 
 Having messed around with electronics and computers for decades, these days I tend to use GitHub for keeping track of my work.
 
-Project span from various home automation tools ([monitoring 3-phase energy meters](https://github.com/mountaindude/garo-gnm3d-moxa), [extracting sensor data from Verisure security systems](https://github.com/mountaindude/verisure-mqtt), ...) to a bunch of different add-on tools for the Qlik Sense business intelligence platform. 
+Projects span from various home automation tools ([monitoring 3-phase energy meters](https://github.com/mountaindude/garo-gnm3d-moxa), [extracting sensor data from Verisure security systems](https://github.com/mountaindude/verisure-mqtt), ...) to a bunch of different add-on tools for the Qlik Sense business intelligence platform. 
 
 Most my work when it comes to Qlik goes into the Butler family of open source tools, more info at [Ptarmigan Labs GitHub](https://github.com/ptarmiganlabs).  
 Ptarmigan Labs is where I work - a one-person consulting company offering expert services around everything Qlik.
