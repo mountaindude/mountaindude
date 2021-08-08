@@ -17,11 +17,12 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 
 <br>
 <br>
+
 ## Areas of work
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/-Qlik%20Sense-brightgreen?style=for-the-badge" />
+<img align="left" alt="qlik sense" src="https://img.shields.io/badge/Qlik%20Sense-brightgreen?style=for-the-badge" />
 
 
 <!--
