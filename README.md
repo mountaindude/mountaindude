@@ -12,6 +12,9 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gorsan/)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mountaindude.medium.com/)
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/-Ptarmigan%20Labs-lightgrey?style=for-the-badge&logo=github&logoColor=white&labelColor=blue" />](https://github.com/ptarmiganlabs)
+
 <br>
 <br>
 ## Areas of work
