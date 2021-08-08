@@ -13,9 +13,7 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mountaindude.medium.com/)
 
-
 ## Areas of work
-
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
