@@ -30,11 +30,11 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 ## Recent Medium posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Butler 5.0 is out — Extra mega super deluxe reload alerts for Qlik Sense](https://mountaindude.medium.com/butler-5-0-is-out-extra-mega-super-deluxe-reload-alerts-for-qlik-sense-b4d4de436127?source=rss-1628d6c8141c------2)
+- [CI/CD with Qlik Sense, GitHub Actions and self-hosted runners](https://medium.com/ptarmigan-labs/ci-cd-with-qlik-sense-github-actions-and-self-hosted-runners-914dc993a533?source=rss-1628d6c8141c------2)
+- [Qlik Sense sheet icons made easy](https://medium.com/ptarmigan-labs/qlik-sense-sheet-icons-made-easy-d5c131a2e325?source=rss-1628d6c8141c------2)
+- [Butler 5.0 is out — Extra mega super deluxe reload alerts for Qlik Sense](https://medium.com/ptarmigan-labs/butler-5-0-is-out-extra-mega-super-deluxe-reload-alerts-for-qlik-sense-b4d4de436127?source=rss-1628d6c8141c------2)
 - [Butler Auth 1.0 now available — strong authentication for Qlik Sense!](https://mountaindude.medium.com/butler-auth-1-0-now-available-strong-authentication-for-qlik-sense-a63459f7aac3?source=rss-1628d6c8141c------2)
 - [Butler 4.2 for Qlik Sense is out! — Ptarmigan Labs](https://mountaindude.medium.com/butler-4-2-for-qlik-sense-is-out-ptarmigan-labs-9eb6a52adae9?source=rss-1628d6c8141c------2)
-- [Butler 4.0 for Qlik Sense is out!](https://medium.com/ptarmigan-labs/butler-4-0-for-qlik-sense-is-out-8954d719b048?source=rss-1628d6c8141c------2)
-- [Post messages to Microsoft Teams from Qlik Sense](https://medium.com/ptarmigan-labs/post-messages-to-microsoft-teams-from-qlik-sense-e276f4692bba?source=rss-1628d6c8141c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
