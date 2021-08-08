@@ -24,6 +24,16 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 
 <img align="left" alt="qlik sense" src="https://img.shields.io/badge/Qlik%20Sense-brightgreen?style=for-the-badge" />
 
+<br>
+<br>
+
+## Recent Medium posts
+
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
+
 
 <!--
 **mountaindude/mountaindude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
