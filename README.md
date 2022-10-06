@@ -22,7 +22,7 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img align="left" alt="qlik sense" src="https://img.shields.io/badge/Qlik%20Sense-brightgreen?style=for-the-badge" />
+[<img align="left" alt="qlik sense" src="https://img.shields.io/badge/Qlik%20Sense-brightgreen?style=for-the-badge" />](https://www.qlik.com/us/products/qlik-sense)
 
 <br>
 <br>
