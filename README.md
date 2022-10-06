@@ -37,10 +37,11 @@ Ptarmigan Labs is where I work - a one-person consulting company offering expert
 - [Butler 4.2 for Qlik Sense is out! — Ptarmigan Labs](https://mountaindude.medium.com/butler-4-2-for-qlik-sense-is-out-ptarmigan-labs-9eb6a52adae9?source=rss-1628d6c8141c------2)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## Github stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mountaindude&show_icons=true)
-
+-->
 
 <!--
 **mountaindude/mountaindude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
